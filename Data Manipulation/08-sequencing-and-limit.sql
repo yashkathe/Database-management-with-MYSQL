@@ -1,0 +1,5 @@
+SELECT * FROM sales
+ORDER BY volume DESC;
+SELECT * FROM sales
+ORDER BY volume DESC
+LIMIT 10;
